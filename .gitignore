@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.token
+credentials/
+state/
+openclaw.json
+*.log
